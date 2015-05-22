@@ -1,3 +1,3 @@
 # proto
-Collaboration verification
-Using default readme from github remote
+Collaboration verification.  
+###Using default readme from github remote
